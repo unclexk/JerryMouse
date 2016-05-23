@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <port>8080</port>
+	<web_root>www</web_root>
+	<io_pool_size>8</io_pool_size>
+	<servelet_pool_size>20</servelet_pool_size>
+</config>
